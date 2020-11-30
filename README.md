@@ -1,0 +1,2 @@
+# ADXL345-STM32F1-Library
+STM32F1 Library for the ADXL345
